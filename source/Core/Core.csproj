@@ -616,8 +616,8 @@
     </EmbeddedResource>
     <Content Include="Services\DefaultViewService\HttpAssets\libs\encoder\encoder.js" />
     <Content Include="Services\DefaultViewService\HttpAssets\libs\encoder\encoder.min.js" />
-    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.11.0.js" />
-    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.11.0.min.js" />
+    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.4.js" />
+    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.4.min.js" />
     <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\scripts.2.5.0.js" />
   </ItemGroup>
   <ItemGroup />
